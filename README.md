@@ -1,4 +1,4 @@
-# Credit_RIsk_Dataset_Analysis
+# credit-risk-analysis-powerbi-python
 Credit Risk Analysis – EDA & Power BI Dashboard
 
 • Performed EDA using Python (Pandas, Matplotlib, Seaborn)
